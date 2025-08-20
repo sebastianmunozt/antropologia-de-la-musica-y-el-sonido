@@ -20,8 +20,9 @@ Para consultas generales sobre el curso o dudas puntuales sobre las actividades,
 
 ## **Documentos del curso**
 
-- 📄 [**Programa**](https://sebastianmunozt.github.io/antropologia-de-la-musica-y-el-sonido/files/programa-am.pdf) 
+- 📄 [**Programa**](https://sebastianmunozt.github.io/antropologia-de-la-musica-y-el-sonido/files/programa-am.pdf)
 - 📅 [**Programación**](https://sebastianmunozt.github.io/antropologia-de-la-musica-y-el-sonido/files/programacion-am.pdf)
+
 
 
 ---
