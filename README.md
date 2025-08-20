@@ -29,49 +29,24 @@ Para consultas generales sobre el curso o dudas puntuales sobre las actividades,
 
 ## 📅 Calendario del Curso
 
-El curso se estructura en catorce sesiones semanales que combinan clases presenciales, debates y algunas actividades asincrónicas. Cada fecha incluye las lecturas obligatorias y sugeridas, además de un texto empírico que ejemplifica los temas de discusión. Las fechas pueden ajustarse en función de la contingencia universitaria.
+El curso se estructura en clases presenciales, debates y algunas actividades asincrónicas. Cada fecha incluye las lecturas obligatorias y sugeridas, además de un texto empírico que ejemplifica los temas de discusión. 
 
-| Fecha            | Unidad | Contenido                                                                                                                     | Actividades y lecturas                                                                                                              | Materiales / recursos clave |
-|------------------|:------:|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| **2025-08-22**   |   1    | **Presentación del curso; acuerdos básicos e intereses de estudiantes** y **Sociologismo/Esteticismo. El caso de la música urbana en Chile** | Lectura base: Hennion (2002) *La pasión musical*, introducción (pp. 15‑25).  
-Texto empírico: Muñoz‑Tapia & Pinochet‑Cobos (2005) sobre géneros musicales y generaciones en Chile.                | Fragmento de Hennion; artículo de Muñoz‑Tapia & Pinochet‑Cobos [`📑 Clase 1`]  (  https://sebastianmunozt.github.io/antropologia-de-la-musica-y-el-sonido/clases/clase-1/clase-1#1) |
-| **2025-08-29**   |   1    | **¿Qué es la música?** Primeras aproximaciones. Música como comportamiento humano según Blacking                               | Lectura base: Blacking (2006) “Sonido humanamente organizado” (pp. 29‑62).  
-Lectura optativa: Mendívil (2016) *En contra de la música* (pp. 15‑35).  
-Texto empírico: Rekedal (2014) *Hip‑hop mapuche*.                                               | Lecturas de Blacking; fragmentos opcionales de Mendívil; caso empírico de Rekedal |
-| **2025-09-05**   |   1    | **¿Para qué sirve la música?** Usos y funciones de la música según Merriam                                                    | Lectura base: Merriam (2001) *Usos y funciones* (en Cruces Villalobos).  
-Lectura optativa: Mendívil (2016) *En contra de la música* (pp. 35‑53).  
-Texto empírico: Welschinger Lascano (2014) sobre música como tecnología del yo en jóvenes argentinas.  | Lecturas de Merriam; fragmentos opcionales de Mendívil; texto empírico de Welschinger |
-| **2025-09-12**   |   2    | **Los inicios de la reflexión sociológica sobre la música** (Simmel y Weber)                                                  | Lectura base: Simmel (2005) *Estudios psicológicos y etnológicos sobre la música*; Weber (2005) *Fundamentos racionales y sociales de la música*.  
-Lectura optativa: Shepherd & Devine (2015) introducción a la sociología de la música.  
-Texto empírico: Karmy & Sepúlveda (2013) sobre la cumbia y la Unidad Popular.         | Lecturas de Simmel y Weber; fragmento de Shepherd & Devine; caso empírico chileno |
-| **2025-09-26**   |   2    | **Gusto 1: clase y capital cultural** (Bourdieu)                                                                               | Lectura base: Bourdieu (2006) *La distinción* (pp. 9‑60).  
-Lectura optativa: Peterson (1992) sobre segmentación de audiencias.  
-Texto empírico: Gayo (2013) sobre capital cultural y participación de jóvenes en Chile.              | Lecturas de Bourdieu; fragmentos opcionales de Peterson; estudio empírico de Gayo |
-| **ONLINE**       |   2    | **Producción musical y mundos del arte** (Becker) – sesión asincrónica                                                       | Lectura base: Becker (2008) *Los mundos del arte* (pp. 17‑59).  
-Lectura optativa: Becker (2008) (pp. 61‑88).  
-Texto empírico: Blázquez (2015) sobre clubes electrónicos en Córdoba.                                       | Lecturas de Becker; fragmentos opcionales; estudio empírico de Blázquez |
-| **2025-10-10**   |   2    | **Sociología de las mediaciones** (Hennion y Born)                                                                            | Lectura base: Hennion (2017) “De una sociología de la mediación a una pragmática de las vinculaciones”.  
-Lectura optativa: Born (2005) “On musical mediation”.  
-Texto empírico: Muñoz‑Tapia (2022) sobre la producción de un espacio rapero.                        | Texto de Hennion; fragmento de Born; investigación de Muñoz‑Tapia |
-| **2025-10-17**   |   2    | **Gusto 2: aficionados y acción fanática** (Hennion y estudios de fans)                                                       | Lectura base: Hennion (2009) “Gustos musicales: de una sociología de la mediación a una pragmática del gusto”.  
-Lectura optativa: Extractos de “Matt Hill entrevista a Henry Jenkins”; Jenkins (2009) *Fans, blogueros y videojuegos*.  
-Texto empírico: Benzecry (2012) *El fanático de la ópera* (pp. 77‑108).                        | Lectura de Hennion; extractos de Jenkins; caso empírico de Benzecry |
-| **2025-10-25**   |   3    | **¿Qué es la etnomusicología?**                                                                                                | Lectura base: Myers (2008) “Etnomusicología” (pp. 19‑39).  
-Lectura optativa: Mendívil (2016) *En contra de la música* (pp. 167‑177).  
-Texto empírico: Báez & Wolf (2023) sobre herencia africana y patrimonio afrodescendiente en Azapa.       | Lecturas de Myers; fragmento de Mendívil; investigación de Báez & Wolf |
-| **2025-11-07**   |   3    | **Etnografía musical**                                                                                                         | Lectura base: Spencer Espinosa (2024) “Etnografías musicales en contextos de crisis”.  
-Lectura optativa: Díaz‑Collao & Soto‑Silva (2021) sobre etnografía en músicas mapuche.  
-Texto empírico: Pérez Guarnieri (2023) sobre la espiritualidad garífuna en Guatemala.               | Texto de Spencer Espinosa; fragmento optativo; estudio empírico de Pérez Guarnieri |
-| **2025-11-14**   |   3    | **Música y género**                                                                                                            | Lectura base: Liska (2014) “Estudios de género y diversidades sexo‑genéricas”.  
-Lectura optativa: Schweig (2022) sobre masculinidades en la escena de rap de Taiwán.  
-Texto empírico: Party (2019) “Homofobia y la Nueva Canción Chilena”.                           | Artículo de Liska; fragmento optativo de Schweig; caso de Party |
-| **2025-11-21**   |   3    | **Música, sonido y poder**                                                                                                     | Lectura base: Wong (2022) “Sonido, silencio, música: poder”.  
-Lectura optativa: Minks & Ochoa Gautier (2021) “Music, Language, Aurality: Latin American and Caribbean Resoundings”.  
-Texto empírico: Díaz‑Collao (2022) sobre música mapuche y resistencias.    | Lectura de Wong; fragmentos optativos; estudio empírico de Díaz‑Collao |
-| **2025-11-28**   |   3    | **Acustemología**                                                                                                             | Lectura base: Feld (2022) “Acustemología”.  
-Se discutirán conceptos de antropología del sonido y la idea de paisajes sonoros.                                         | Texto de Feld |
-| **2025-12-05**   |   3    | **Presentación de trabajos individuales**                                                                                      | Entrega y exposición oral del trabajo final (investigación empírica o ensayo crítico).  
-Se evaluará la integración de teoría y análisis.                                         | Trabajo final |
+| Fecha          | Unidad | Contenido                                                                                                                       | Texto obligatorio                                                                                                          | Presentación |
+|----------------|:------:|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------|
+| **2025-08-22** |   1    | **Presentación del curso; acuerdos básicos e intereses de estudiantes** y **Sociologismo/Esteticismo. El caso de la música urbana en Chile** | Hennion (2002) *La pasión musical*, introducción (pp. 15‑25)                                                            | [`📑 Clase 1`](https://sebastianmunozt.github.io/antropologia-de-la-musica-y-el-sonido/clases/clase-1/clase-1#1) |
+| **2025-08-29** |   1    | **¿Qué es la música?** Primeras aproximaciones. Música como comportamiento humano según Blacking                                 | Blacking (2006) “Sonido humanamente organizado” (pp. 29‑62)                                                            | —           |
+| **2025-09-05** |   1    | **¿Para qué sirve la música?** Usos y funciones de la música según Merriam                                                      | Merriam (2001) *Usos y funciones* (en Cruces Villalobos)                                                                | —           |
+| **2025-09-12** |   2    | **Los inicios de la reflexión sociológica sobre la música** (Simmel y Weber)                                                    | Simmel (2005); Weber (2005)                                                                                             | —           |
+| **2025-09-26** |   2    | **Gusto 1: clase y capital cultural** (Bourdieu)                                                                                 | Bourdieu (2006) *La distinción* (pp. 9‑60)                                                                             | —           |
+| **ONLINE**     |   2    | **Producción musical y mundos del arte** (Becker) – sesión asincrónica                                                         | Becker (2008) *Los mundos del arte* (pp. 17‑59)                                                                         | —           |
+| **2025-10-10** |   2    | **Sociología de las mediaciones** (Hennion y Born)                                                                              | Hennion (2017) “De una sociología de la mediación a una pragmática de las vinculaciones”                                | —           |
+| **2025-10-17** |   2    | **Gusto 2: aficionados y acción fanática** (Hennion y estudios de fans)                                                         | Hennion (2009) “Gustos musicales: de una sociología de la mediación a una pragmática del gusto”                         | —           |
+| **2025-10-25** |   3    | **¿Qué es la etnomusicología?**                                                                                                  | Myers (2008) “Etnomusicología” (pp. 19‑39)                                                                            | —           |
+| **2025-11-07** |   3    | **Etnografía musical**                                                                                                           | Spencer Espinosa (2024) “Etnografías musicales en contextos de crisis”                                                | —           |
+| **2025-11-14** |   3    | **Música y género**                                                                                                              | Liska (2014) “Estudios de género y diversidades sexo‑genéricas”                                                      | —           |
+| **2025-11-21** |   3    | **Música, sonido y poder**                                                                                                       | Wong (2022) “Sonido, silencio, música: poder”                                                                        | —           |
+| **2025-11-28** |   3    | **Acustemología**                                                                                                               | Feld (2022) “Acustemología”                                                                                           | —           |
+| **2025-12-05** |   3    | **Presentación de trabajos individuales**                                                                                        | —                                                                                                                     | —           |
 
 ---
 
