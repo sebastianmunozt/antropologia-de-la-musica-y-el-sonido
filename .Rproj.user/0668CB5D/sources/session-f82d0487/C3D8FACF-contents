@@ -1,0 +1,267 @@
+---
+
+output:
+  xaringan::moon_reader:
+    self_contained: false
+    css: null  # muy importante para evitar conflictos con estilos predefinidos
+    nature:
+      ratio: 16:9
+---
+
+<!-- Google Fonts + CSS personalizada -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+.remark-slide-content {
+  font-family: 'Poppins', sans-serif;
+  font-size: 28px;
+  color: red;
+  background-color: black;
+}
+
+.remark-slide-content h1, 
+.remark-slide-content h2, 
+.remark-slide-content h3 {
+  font-family: 'Poppins', sans-serif;
+  color: red;
+}
+</style>
+
+
+
+# SOCIOLOGÍA Y ANTROPOLOGÍA DE LA MÚSICA Y EL SONIDO
+### Sebastián Muñoz Tapia
+### Leonardo Díaz Collao
+#### Javiera Muñoz Retamal
+
+---
+class: middle, slideInRight, fadeOutLeft
+background-image: url("img/ah-pm.jpg")
+background-size: contain
+background-position: center
+background-color: black
+
+---
+class: middle, slideInRight, fadeOutLeft
+background-image: url("img/gb.jpg")
+background-size: contain
+background-position: center
+background-color: black
+
+
+
+
+---
+class:   middle, slideInRight, fadeOutLeft
+background-image: url("img/negro-1.png")
+background-size: cover
+
+## Introducción al curso: Sociología y Antropología de la Música
+
+- Enfoque basado en Hennion: ni arte autónomo ni simple reflejo social.
+- Se analiza la música **como práctica mediada**.
+- Ejemplo urbano: no hay “el reggaetón” como objeto; hay artistas, fans, beats, voces, plataformas, fiestas, reacciones, recitales, cuentas de instagram
+- La música no existe fuera de sus **MEDIACIONES**.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-2.png")
+background-size: cover
+
+## Preguntas: Introducción
+
+- ¿Qué implica pensar la música como una práctica mediada?
+- ¿Qué consecuencias tiene dejar de buscar una “esencia” de la música?
+- ¿Qué actores, objetos, espacios, sonidos considerarías fundamentales para que una canción exista socialmente?
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-3.png")
+background-size: cover
+
+## El carácter huidizo de la música 
+
+- La música **no es un objeto estable**: necesita ser actualizada constantemente.
+- Ejemplo: un track de trap cambia de sentido si se escucha en TikTok, en un club o en vinilo.
+- Cada situación requiere **mediadores distintos**: DJ, plataformas, auriculares, visuales, coreografías.
+- En la música urbana, la pista es solo el punto de partida del fenómeno.
+- Las mediaciones son asociaciones entre elementos diversos
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-4.png")
+background-size: cover
+
+## Preguntas: Carácter huidizo
+
+- ¿Cómo cambia tu experiencia de una canción según el lugar o el dispositivo desde el que la escuchas?
+- ¿Qué mediadores identificas cuando piensas en cómo consumes música diariamente?
+- ¿Qué hace que una canción se vuelva significativa en una situación específica?
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-1.png")
+background-size: cover
+
+## Pintura vs Música 
+
+- La **pintura** es una obra **fija**, con un soporte visible y estable (un lienzo, un muro).
+  - Su experiencia puede cambiar, pero **el objeto permanece igual**.
+  - Ejemplo: un cuadro de Picasso sigue siendo el mismo, se vea en un museo o en un libro.
+  
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-7.png")
+background-size: cover
+
+
+- La **música** es una práctica **huidiza**: no existe si no es **reactivada**.
+  - Cada escucha **la reconstituye**: en vinilo, en TikTok, en vivo, en auriculares.
+  - Ejemplo: una canción de trap cambia según quién la pincha, cómo se baila, dónde suena.
+
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-5.png")
+background-size: cover
+
+## El problema del discurso crítico
+
+- El discurso crítico busca "obras" cerradas, pero la música urbana se construye en la repetición, mezcla, apropiación.
+- Ejemplo: una canción de reggaetón no es solo un producto cultural sino una práctica colectiva (bailes, remixes, reels).
+- Si se ignoran estas mediaciones, la crítica se vuelve estéril o moralizante.
+- Hennion: la música “resiste” al discurso que intenta fijarla.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-6.png")
+background-size: cover
+
+## Preguntas: Discurso crítico
+
+- ¿Qué limitaciones tiene analizar una canción solo desde su letra o autor?
+- ¿Qué se pierde si ignoramos el contexto social y material en el que circula la música?
+- ¿Cómo se expresa una crítica moralizante sobre la música urbana hoy?
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-7.png")
+background-size: cover
+
+## La propuesta de Hennion: teoría de las mediaciones
+
+- Propuesta: seguir el recorrido que hace posible la aparición de la música.
+- Ejemplo: un tema urbano implica beatmakers, productores, feats, redes, coreógrafos, influencers.
+- Lo musical se construye con múltiples actores y objetos, **no existe por fuera de esas redes**.
+- La música urbana muestra la mediación como **fuerza creativa**.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-8.png")
+background-size: cover
+
+## Preguntas: Teoría de las mediaciones
+
+- ¿Cómo podrías “seguir el recorrido” de una canción de música urbana?
+- ¿Qué personas, tecnologías o prácticas intervienen en su aparición?
+- ¿Cómo se evidencia la creatividad de las mediaciones más allá del artista?
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-1.png")
+background-size: cover
+
+
+## Crítica al dualismo: más allá del esteticismo y el sociologismo 
+
+- Esteticismo: “el trap es arte”, se centra en lo formal.
+- Sociologismo: “el reggaetón es machista porque refleja desigualdades”.
+- Ambos son reductivos si se toman de forma aislada.
+- Ejemplo: Bad Bunny como ícono queer y pop global → ni solo estética ni solo ideología, sino **controversia viva y situada**.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-10.gif")
+background-size: cover
+
+## Preguntas: Crítica al dualismo
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-2.png")
+
+- ¿Cómo ves estos dos enfoques (estético y sociológico) en los debates sobre música urbana?
+- ¿Puedes pensar un caso donde ambos enfoques estén en tensión?
+- ¿Qué ganamos al analizar la música como controversia situada?
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-11.gif")
+background-size: cover
+
+## La mediación como clave metodológica
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-5.png")
+
+
+- Ejemplo: un tema de drill UK se escucha distinto según el medio → auriculares, redes sociales, altoparlante callejero.
+- Cada soporte **condiciona la experiencia musical**.
+- Hennion: hay que observar lo que pasa "en el medio", no solo en los extremos (obra/público).
+- Música urbana = red de prácticas, no objeto esencial.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-3.png")
+
+## Preguntas: Mediación metodológica
+
+- ¿Cómo cambian tus prácticas musicales según el soporte?
+- ¿Qué detalles podrían ser ignorados si solo analizamos la “obra” o el “receptor”?
+- ¿Qué metodologías nos permiten observar lo que ocurre en el medio?
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-4.png")
+
+## Pasión musical y mediaciones
+
+- Amor por la música urbana puede ser individual (“este tema me representa”) o colectivo (el pogo, el baile en grupo).
+- Ejemplo: fandoms, challenges, conciertos → pasión compartida, mediada por plataformas y objetos.
+- Los músicos urbanos **navegan entre autenticidad y marketing**, estética y política.
+- La pasión no se opone a la mediación: la necesita.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-12.png")
+
+## Preguntas: Pasión y mediaciones
+
+- ¿Cómo se expresa tu vínculo afectivo con la música?
+- ¿Qué objetos, prácticas o espacios median tu experiencia emocional con una canción?
+- ¿Cómo se negocian autenticidad y comercialización en los artistas que sigues?
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-6.png")
+
+## Conclusión: Música como sociología en acto
+
+- Hennion: la música no es solo objeto, es una **teoría práctica de la relación**.
+- Música urbana: lugar donde se mezclan lo sonoro, lo corporal, lo tecnológico y lo político.
+- Oyentes, performers, productores y dispositivos **constituyen el hecho musical**.
+- La sociología no debe explicarla desde fuera, sino **acompañar sus mediaciones**.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-7.png")
+
+## Preguntas: Conclusión
+
+- ¿Qué nuevas formas de pensar la música aparecen al verla como una práctica relacional?
+- ¿Qué implicancias tiene esto para la investigación en ciencias sociales?
+- ¿Qué desafíos presenta este enfoque al trabajo sociológico o antropológico clásico?
+
