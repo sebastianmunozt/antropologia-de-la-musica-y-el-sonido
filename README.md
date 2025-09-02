@@ -24,6 +24,33 @@ Para consultas generales sobre el curso o dudas puntuales sobre las actividades,
 - 📅 [**Programación**](https://sebastianmunozt.github.io/antropologia-de-la-musica-y-el-sonido/files/programacion-am.pdf)
 
 
+---
+
+## **Bibliografía**
+El curso tiene 3 tipos de textos a leer:
+- Los obligatorios por clase
+- Los optativos
+- Los recomendados, que le servirán para desarrollar un tema que usted quiera exponer. Estos textos están en la subcarpeta empíricos, pero puede pedir sugerencias a los profesores por si hay textos que pueden ser más específicos para lo que quiera trabajar en sus ensayos. 
+
+Los textos los puede encontrar [acá](https://drive.google.com/drive/folders/1sRcVrxFoE6qukEY1TmhV_y0RvXf2D7EM)
+
+
+---
+ 
+## Bitácora
+
+Para entender cómo funciona el gusto personal por la música, realizaremos este ejercicio semanal, en el cual:
+- seleccione una canción que lo/la marcó durante la semana
+- conteste el formulario 
+- subala a la lista de Spotify
+
+
+[Formulario Semanal](https://docs.google.com/forms/d/e/1FAIpQLScthFs6BXZbZawX6kfMG2fxqChVbWqM5YiurvxvkLCBrgRZ-A/viewform?usp=sharing&ouid=116594898742472958416)
+[Lista de Spotify](https://open.spotify.com/playlist/2Rx308UVwokc8WI19APwOu?si=9KTKAvgxSIq0bOtDaaaQ5w&pt=c07d653ba72f829e80edff2d783f8932&pi=POzjt4d-QGOU3)
+
+
+Esto nos permitirá comprender la perspectiva de "las mediaciones" del gusto. Por lo que recomendamos leer los textos de A. Hennion al respecto. 
+
 
 ---
 
@@ -59,6 +86,14 @@ El curso se estructura en clases presenciales, debates y algunas actividades asi
 | **Trabajo intermedio**                 | Ensayo o avance de investigación (≈ 3000 palabras) que incluya pregunta, justificación, breve estado del arte (al menos tres referencias), descripción del corpus, marco conceptual y aproximación teórica o metodológica.                                             | Individual | 25‑10‑2025        | 20 %       |
 | **Trabajo final empírico o ensayo**     | Desarrollo del trabajo intermedio en una investigación empírica o ensayo crítico (≥ 6000 palabras) que integre teoría y análisis (etnografía, archivos, entrevistas o bibliografía especializada). Presentación oral en la última clase.                                 | Individual | 05‑12‑2025        | 50 %       |
 | **Asistencia y participación**          | Se registra asistencia en cada bloque; se exige un mínimo de 70 % para aprobar. La participación en clases se evalúa a partir de las intervenciones, esperando al menos una intervención por clase.                                                                     | Individual | Permanente        | 10 %       |
+
+---
+## Listado de presentaciones de textos
+
+A continuación entregamos un listado para que se inscriba en la presentación de los textos: 
+Inscribirse [acá](https://docs.google.com/spreadsheets/d/1V9MoyBYUBkTtRD69oaP6vc87kFxOSNAS0Qoeh-mfXuw/edit?usp=sharing)
+Si para la clase del viernes 5 no se inscriben, realizaremos una selección aleatoria. 
+
 
 ---
 
