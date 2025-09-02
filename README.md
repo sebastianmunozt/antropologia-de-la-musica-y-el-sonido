@@ -41,12 +41,10 @@ Los textos los puede encontrar [acá](https://drive.google.com/drive/folders/1sR
 
 Para entender cómo funciona el gusto personal por la música, realizaremos este ejercicio semanal, en el cual:
 - seleccione una canción que lo/la marcó durante la semana
-- conteste el formulario 
-- subala a la lista de Spotify
+- conteste el [formulario](https://docs.google.com/forms/d/e/1FAIpQLScthFs6BXZbZawX6kfMG2fxqChVbWqM5YiurvxvkLCBrgRZ-A/viewform?usp=sharing&ouid=116594898742472958416) 
+- subala a la [lista de Spotify](https://open.spotify.com/playlist/2Rx308UVwokc8WI19APwOu?si=9KTKAvgxSIq0bOtDaaaQ5w&pt=c07d653ba72f829e80edff2d783f8932&pi=POzjt4d-QGOU3)
 
 
-[Formulario Semanal](https://docs.google.com/forms/d/e/1FAIpQLScthFs6BXZbZawX6kfMG2fxqChVbWqM5YiurvxvkLCBrgRZ-A/viewform?usp=sharing&ouid=116594898742472958416)
-[Lista de Spotify](https://open.spotify.com/playlist/2Rx308UVwokc8WI19APwOu?si=9KTKAvgxSIq0bOtDaaaQ5w&pt=c07d653ba72f829e80edff2d783f8932&pi=POzjt4d-QGOU3)
 
 
 Esto nos permitirá comprender la perspectiva de "las mediaciones" del gusto. Por lo que recomendamos leer los textos de A. Hennion al respecto. 
@@ -93,9 +91,9 @@ El curso se estructura en clases presenciales, debates y algunas actividades asi
 ---
 ## Listado de presentaciones de textos
 
-A continuación entregamos un listado para que se inscriba en la presentación de los textos: 
+- A continuación entregamos un listado para que se inscriba en la presentación de los textos: 
 Inscribirse [acá](https://docs.google.com/spreadsheets/d/1V9MoyBYUBkTtRD69oaP6vc87kFxOSNAS0Qoeh-mfXuw/edit?usp=sharing)
-Si para la clase del viernes 5 no se inscriben, realizaremos una selección aleatoria. 
+- Si para la clase del viernes 5 no se inscriben, realizaremos una selección aleatoria. 
 
 
 ---
