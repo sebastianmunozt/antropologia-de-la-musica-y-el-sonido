@@ -1,0 +1,448 @@
+---
+
+output:
+  xaringan::moon_reader:
+    self_contained: false
+    css: null  # muy importante para evitar conflictos con estilos predefinidos
+    nature:
+      ratio: 16:9
+---
+
+<!-- Google Fonts + CSS personalizada -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+.remark-slide-content {
+  font-family: 'Poppins', sans-serif;
+  font-size: 28px;
+  color: #66FFCC;
+  background-color: black;
+}
+
+.remark-slide-content h1, 
+.remark-slide-content h2, 
+.remark-slide-content h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #66FFCC;
+}
+</style>
+
+
+
+# Música y sociología
+## ¿Cómo la música se relaciona con lo social en sociedades occidentales?
+### Conversación entre Max Weber y Theodor Adorno
+#### Sebastián Muñoz Tapia
+
+---
+class: middle, slideInRight, fadeOutLeft
+background-image: url("img/mw.jpg")
+background-size: contain
+background-position: center
+background-color: black
+
+---
+class: middle, slideInRight, fadeOutLeft
+background-image: url("img/ta.jpg")
+background-size: contain
+background-position: center
+background-color: black
+
+---
+
+#### ¿Qué hace la música y la música popular?
+
+
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/yYpQPHKPJ_Q"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+
+
+
+
+---
+background-image: url("img/negro-13.png")
+background-size: cover
+
+## La música y la imaginación sociológica
+
+
+
+- La música puede analizarse con **imaginación sociológica** (C. Wright Mills, 1959).
+- Permite conectar **biografía e historia** en contextos sociales.
+- Función crítica: revela lo **construido** y **mutable** de lo musical.
+- Relación entre lo **personal, social y musical**.
+- Diálogo entre sociología y musicología: enfoques cruzados sobre lo social y lo sonoro.
+
+
+
+
+---
+class:   middle, slideInRight, fadeOutLeft
+background-image: url("img/negro-35.png")
+background-size: cover
+
+
+
+---
+class:   middle, slideInRight, fadeOutLeft
+background-image: url("img/negro-36.png")
+background-size: cover
+ 
+## Inicios de la sociología de la música
+
+- Siglo XIX: primeros vínculos entre sociología y música.
+- Autores clave:
+  - **Max Weber**: **racionalización** y sistema tonal.
+  - **Escuela de Chicago**: música urbana (en las **ciudades**), trabajo y ocio.
+  - **Paul Lazarsfeld**: audiencias e **industria musical**.
+- Campo inicialmente **fragmentado** y disperso.
+- **Adorno** (Escuela de Frankfurt): crítica a la **cultura de masas**, atención tanto a lo popular como a lo artístico.
+ 
+
+---
+class:   middle, slideInRight, fadeOutLeft
+background-image: url("img/negro-29.png")
+background-size: cover
+
+
+## Expansión desde los años 70
+
+- 1955: Etnomusicología en EE.UU.: músicas tradicionales y populares.
+- 1970s-80s:
+  - UK: **Shepherd, Chambers, Frith** – música, clase y juventud.
+  - EE.UU.: **Peterson** – música como producto de acuerdos institucionales.
+- Enfoque interdisciplinario: sociología, estudios culturales, etnomusicología.
+- Temas clave: **identidad, globalización, producción cultural**.
+ 
+ 
+
+---
+class:   middle, slideInRight, fadeOutLeft
+background-image: url("img/negro-37.png")
+background-size: cover
+
+## Temas clave en la sociología de la música
+
+- **Significado social**: homología entre estructuras sociales y formas musicales.
+- **Identidad**:
+  - **Frith**: la música construye identidades culturales.
+  - **Bourdieu**: gusto musical y distinción de clase.
+  - **Hesmondhalgh**: límites del poder subjetivo de la música.
+- **Interacción social**: 
+  - **Schutz**: coordinación microsocial.
+  - **Becker**: acción colectiva y creación musical.
+
+
+  
+
+
+---
+class:   middle, slideInRight, fadeOutLeft
+background-image: url("img/negro-31.png")
+background-size: cover
+
+
+- Industria y comercialización:
+  - **Adorno y Benjamin**: alienación vs. potencial participativo.
+  - **Peterson, Dowd**: industria musical como sistema complejo e impredecible.
+- Materialidad y mediación:
+  - **Hennion, DeNora, Born**: música como práctica situada y mediada.
+- Transformaciones digitales (Théberge, Bull, Prior): nuevos modos de escuchar, producir y circular la música.
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-38.png")
+background-size: cover
+
+## Max Weber y la música
+
+- La música occidental moderna se entiende vía **racionalización** (técnica e institucional).
+- Ejes: **temperamento y sistema tonal**, **instrumentación** (cuerdas/piano), **clase burguesa**.
+- “Nuestra educación orientada hacia la música armónica moderna está representada esencialmente por [el piano]” (Weber, 2015, p. 64).
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-32.png")
+background-size: cover
+
+- Anticipo: **¿Cómo dividimos los sonidos?** → dos lógicas (distancias físicas vs. relaciones armónicas).
+- ¿Cómo hacer para que se relacionen estos sonidos y las personas que tocan juntas?
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+<iframe width="800" height="450"
+src="https://www.youtube-nocookie.com/embed/P7iC-fbdKmQ"
+title="Video de YouTube: ejemplo musical" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-40.png")
+background-size: cover
+
+
+## Temperamento y división del sonido
+
+- **Dividir los sonidos**:
+  - Por **distancias físicas “regladas”** (partes iguales del continuo sonoro).
+  - Por **relaciones armónicas** (proporciones que hacen “encajar” notas).
+- La tradición occidental privilegia la **división racional-funcional** orientada a la **armonía**.
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-39.png")
+background-size: cover
+
+
+- Conceptos clave:
+  - **Melodía**: sucesión organizada de tonos.
+  - **Armonía**: simultaneidad de tonos según proporciones.
+  - **Tono**: posición/función en una red de relaciones.
+- **Distancia armónica** ⇒ forma de **racionalidad musical** (jerarquías, tensión/relajación).
+
+
+---
+## Melodía vs. Armonía (ritmo)
+
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/LPfX9EYGeMk"
+title="Melodía y Armonía: diferencia" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+- Expresa la **racionalización** cultural: cálculo, sistematización, reglas.
+- Aun cuando se “rompe” la tonalidad, **persisten** referencias a esa arquitectura racional.
+- Efecto histórico: pudo desarrollar cierta sensibilidad auditiva, pero sigue estructurando la escucha.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-27.png")
+background-size: cover
+
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/zYaWND9n9h0" 
+title="Schoenberg: tensiones con la tonalidad" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-20.png")
+background-size: cover
+
+## De instrumentos medievales a la orquesta moderna
+
+- Cuerdas medievales con **trastes** y diseño que **limitaba**:
+  - **Sostenido** y control de **dinámica**.
+  - **Legato** y transiciones suaves.
+  - **Velocidad** y fluidez en pasajes rápidos.
+- Siglos XVI–XVIII: mejora técnica (Brescia/Cremona) → **violín, viola, violonchelo**; base del cuarteto y la orquesta.
+- Resultado: gran **expresividad melódica**; diseño orientado a la **melodía**, no a la armonía plena.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/jPKhBkLgFLk" 
+title="Cuerdas tempranas: posibilidades y límites" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-38.png")
+background-size: cover
+
+## El piano: burgués y expresivo
+
+- **Síntesis técnica**: golpe de martillo ⇒ **volumen**, **ataque**, **sostenido**, **arpegios**.
+- **Función social**: instrumento **doméstico** de la **burguesía**; centro de la educación armónica.
+- **Comprensión weberiana**: técnica que **habilita y limita** posibilidades expresivas.
+- Referentes históricos: **Chambonnières**, **Scarlatti** (virtuosismo y efectos propios del piano).
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/Gh9WX7TKfkI" 
+title="Scarlatti y el desarrollo pianístico temprano" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-36.png")
+background-size: cover
+
+
+## Mercado, industria y cierre weberiano
+
+- Del **encargo artesanal** a la **producción estandarizada** (hierro; UK/EE. UU.) → difusión masiva.
+- **Demanda** de compositores/virtuosos + **competencia industrial** ⇒ innovación continua.
+- El piano simboliza la unión de **racionalización técnica** y **función social** (consumo doméstico).
+- Tesis final: la música occidental no es neutra; refleja **condiciones históricas** y **arreglos institucionales**.
+
+---
+
+class:   middle, slideInRight, inverse fadeOutLeft
+
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/tI7xtD3bMD0" 
+title="Mozart y expectativas sociales" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+
+---
+class: middle, slideInRight, fadeOutLeft
+background-image: url("img/mozart.jpg")
+background-size: contain
+background-position: center
+background-color: black
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+## El piano: burgués, expresivo e industrial 📈
+
+- **Expresivo**: control de **volumen**, **ataque** y **sostenido**; ideal para interiores.
+- **Burgués**: centro de la **educación doméstica** y consumo cultural.
+- **Mercado/industria**:
+  - De **encargos artesanales** a **producción estandarizada** (hierro; UK/EE. UU.).
+  - Competencia industrial → difusión masiva; adapta demandas de compositores/virtuosos.
+- Resultado: símbolo de **racionalización técnica** + **función social**.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/adorno.png")
+background-size: cover
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-40.png")
+background-size: cover
+
+## T. Adorno: sociología de la música — visión general 🎼
+
+- Sociología **crítica**: música como **hecho social** y forma de **autoconciencia**.
+- Núcleo dialéctico: **fuerzas productivas musicales** ↔ **circunstancias de producción**.
+- Objetivo: **descifrar** la estructura social en la música y su **verdad** vs **ideología**.
+- Campos de análisis: **forma**, **recepción**, **reproducción técnica** y **mercado**.
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+
+1. **fuerzas productivas**: no es sólo la producción en el sentido musical estricto, es decir, la actividad de componer, sino también el trabajo de los artistas reproductores vivos y toda la tecnología dispuesta de forma no homogénea. **Lo que hace la música**
+2. **circunstancias de producción**: abarcan las condiciones económicas, ideológicas y el gusto del público. **Las condiciones para hacer música**. 
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-40.png")
+background-size: cover
+
+
+## Producción vs. circunstancias: conflicto y cambio ⚙️
+
+- La fuerzas productivas pueden **transformar** el gusto (p. ej., **Wagner**); el mercado puede **limitarla**.
+- las circunstancias de producción potenciaron las fuerzas productivas, como en Richard Strauss, vinculado al ascenso de la gran burguesía alemana.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+- **Alienación**: distancia entre obra y público por presiones de mercado → **autocensura**.
+- Sociología crítica: estudiar **lo que se hace** y **lo que no llega a ser** (obras/potenciales descartados).
+- Caso ilustrativo (expectativa vs. deseo autoral): **Mozart**.
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+> Una sociología musical centrada en el conflicto entre las fuerzas productivas y las circunstancias de producción se ocuparía no sólo de lo que llega a ser y se consume, sino también de lo que no llega a ser y se desecha.
+
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+## La bidireccionalidad
+
+1. Lo social se refracta en la música: las formas musicales son interiorizaciones de formas sociales. 
+2. La música produce lo social: la música es a la vez hecho social y proceso de autoformación, autoliberación de los deseos sociales inmediantes; emancipación subjetiva en relación a una sociedad ideal.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-28.png")
+background-size: cover
+
+## Economía política, tecnología y forma 📊
+
+- Analizar la **base económica** más allá de motivos inmediatos: cambios estructurales (p. ej., **monopolio**).
+- **Tecnología** como vía privilegiada: afinidad entre técnicas **materiales** y **artísticas**.
+- **Fetichismo de los medios** y “velo tecnológico”: la industria cultural **absorbe** incluso la vanguardia.
+- La forma musical expresa **trabajo social** (p. ej., **Beethoven**) en tensión con su época.
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+### Relaciones no lineales economía, configuración social, procesos musicales y tecnologías
+
+> Algo que hay que escudriñar enérgicamente es cómo se vinculan específicamente la base económica, la configuración social y la producción y reproducción de la música. La sociología musical no debe contentarse con afirmar alguna congruencia estructural; tiene que mostrar cómo las circunstancias sociales se expresan concretamente en los tipos de música, cómo determinan la música. 
+> Es en el estado de la tecnología en un momento determinado donde la sociedad se extiende a las obras, y hay afinidades mucho más estrechas entre las técnicas de producción material y artística de lo que reconoce la división científica del trabajo. 
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-29.png")
+background-size: cover
+
+
+## Recepción, ideología y métodos 🧪
+
+- **Recepción ≠ consumo**: investigar cómo la música se **asimila como mercancía**.
+- Métodos: análisis de **forma** + estudios de **percepción**, **lenguaje** y **gustos/ideologías**.
+- Tesis crítica: la música popular **estandarizada** confirma el **envilecimiento** social (industria cultural).
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+## Swing de big band — Glenn Miller
+- Jazz de baile, esquemas repetitivos.
+- Función: entretenimiento masivo (industria cultural).
+
+
+[Ver en YouTube](https://www.youtube.com/watch?v=aME0qvhZ37o)
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+
+## Schoenberg según Adorno: *Pierrot lunaire*, nº 18 “Der Mondfleck”
+
+[Ver en YouTube](https://www.youtube.com/watch?v=vhwy3mk5jhY&list=RDvhwy3mk5jhY&start_radio=1)
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+### ¿Fue Adorno un elitista cultural?
+[Ver en YouTube](https://www.youtube.com/watch?v=eirb8oXwPgA&t=1478s)
