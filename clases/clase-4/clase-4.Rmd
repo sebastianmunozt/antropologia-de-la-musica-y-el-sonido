@@ -106,7 +106,7 @@ background-size: cover
 
 ---
 class:   middle, slideInRight, fadeOutLeft
-background-image: url("img/negro-29.png")
+background-image: url("img/negro-31.png")
 background-size: cover
 
 
@@ -173,7 +173,7 @@ background-image: url("img/negro-32.png")
 background-size: cover
 
 - Anticipo: **¿Cómo dividimos los sonidos?** → dos lógicas (distancias físicas vs. relaciones armónicas).
-- ¿Cómo hacer para que se relacionen estos sonidos y las personas que tocan juntas?
+- ¿Cómo hacer para que se relacionen estos sonidos y las personas que tocan juntas? ¿Cómo generar coordinación sociomusical?
 
 
 ---
@@ -282,6 +282,19 @@ background-size: cover
 - Referentes históricos: **Chambonnières**, **Scarlatti** (virtuosismo y efectos propios del piano).
 
 
+
+---
+
+
+class:   middle, slideInRight, inverse fadeOutLeft
+
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/NDvS2V7HbnY?start=142&rel=0&modestbranding=1&playsinline=1"
+title="Cuerdas tempranas: posibilidades y límites (desde 2:22)" frameborder="0" loading="lazy"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
+
 ---
 class:   middle, slideInRight, inverse fadeOutLeft
 
@@ -326,6 +339,11 @@ background-color: black
 
 ---
 class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/negro-41.png")
+background-size: contain
+background-position: center
+background-color: black
+
 ## El piano: burgués, expresivo e industrial 📈
 
 - **Expresivo**: control de **volumen**, **ataque** y **sostenido**; ideal para interiores.
@@ -347,7 +365,7 @@ background-size: cover
 
 ## T. Adorno: sociología de la música — visión general 🎼
 
-- Sociología **crítica**: música como **hecho social** y forma de **autoconciencia**.
+- Sociología **crítica**: música como **hecho social** y forma de **autoconciencia**, liberación. 
 - Núcleo dialéctico: **fuerzas productivas musicales** ↔ **circunstancias de producción**.
 - Objetivo: **descifrar** la estructura social en la música y su **verdad** vs **ideología**.
 - Campos de análisis: **forma**, **recepción**, **reproducción técnica** y **mercado**.
@@ -357,8 +375,8 @@ background-size: cover
 class:   middle, slideInRight, inverse fadeOutLeft
 
 
-1. **fuerzas productivas**: no es sólo la producción en el sentido musical estricto, es decir, la actividad de componer, sino también el trabajo de los artistas reproductores vivos y toda la tecnología dispuesta de forma no homogénea. **Lo que hace la música**
-2. **circunstancias de producción**: abarcan las condiciones económicas, ideológicas y el gusto del público. **Las condiciones para hacer música**. 
+1. **fuerzas productivas**: *no es sólo la producción en el sentido musical estricto, es decir, la actividad de componer, sino también el trabajo de los artistas reproductores vivos y toda la tecnología dispuesta de forma no homogénea*. **Lo que hace la música**
+2. **circunstancias de producción**: *abarcan las condiciones económicas, ideológicas y el gusto del público* **Las condiciones para hacer música**. 
 
 
 ---
@@ -382,7 +400,7 @@ class:   middle, slideInRight, inverse fadeOutLeft
 ---
 class:   middle, slideInRight, inverse fadeOutLeft
 
-> Una sociología musical centrada en el conflicto entre las fuerzas productivas y las circunstancias de producción se ocuparía no sólo de lo que llega a ser y se consume, sino también de lo que no llega a ser y se desecha.
+*Una sociología musical centrada en el conflicto entre las fuerzas productivas y las circunstancias de producción se ocuparía no sólo de lo que llega a ser y se consume, sino también de lo que no llega a ser y se desecha.*
 
 
 
@@ -409,13 +427,18 @@ background-size: cover
 class:   middle, slideInRight, inverse fadeOutLeft
 ### Relaciones no lineales economía, configuración social, procesos musicales y tecnologías
 
-> Algo que hay que escudriñar enérgicamente es cómo se vinculan específicamente la base económica, la configuración social y la producción y reproducción de la música. La sociología musical no debe contentarse con afirmar alguna congruencia estructural; tiene que mostrar cómo las circunstancias sociales se expresan concretamente en los tipos de música, cómo determinan la música. 
-> Es en el estado de la tecnología en un momento determinado donde la sociedad se extiende a las obras, y hay afinidades mucho más estrechas entre las técnicas de producción material y artística de lo que reconoce la división científica del trabajo. 
+*Algo que hay que escudriñar enérgicamente es cómo se vinculan específicamente la base económica, la configuración social y la producción y reproducción de la música. La sociología musical no debe contentarse con afirmar alguna congruencia estructural; tiene que mostrar cómo las circunstancias sociales se expresan concretamente en los tipos de música, cómo determinan la música*. 
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+### Relaciones no lineales economía, configuración social, procesos musicales y tecnologías
+
+*Es en el estado de la tecnología en un momento determinado donde la sociedad se extiende a las obras, y hay afinidades mucho más estrechas entre las técnicas de producción material y artística de lo que reconoce la división científica del trabajo.* 
 
 
 ---
 class:   middle, slideInRight, inverse fadeOutLeft
-background-image: url("img/negro-29.png")
+background-image: url("img/negro-7.png")
 background-size: cover
 
 
@@ -423,7 +446,7 @@ background-size: cover
 
 - **Recepción ≠ consumo**: investigar cómo la música se **asimila como mercancía**.
 - Métodos: análisis de **forma** + estudios de **percepción**, **lenguaje** y **gustos/ideologías**.
-- Tesis crítica: la música popular **estandarizada** confirma el **envilecimiento** social (industria cultural).
+- Tesis crítica: la música popular **estandarizada** confirma el **envilecimiento** social (industria cultural): alineada.
 
 
 ---
