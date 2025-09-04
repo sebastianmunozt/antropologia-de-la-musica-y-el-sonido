@@ -354,6 +354,14 @@ background-color: black
 - Resultado: símbolo de **racionalización técnica** + **función social**.
 
 ---
+
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/1.png")
+background-size: cover
+
+
+
+---
 class:   middle, slideInRight, inverse fadeOutLeft
 background-image: url("img/adorno.png")
 background-size: cover
@@ -469,3 +477,9 @@ class:   middle, slideInRight, inverse fadeOutLeft
 class:   middle, slideInRight, inverse fadeOutLeft
 ### ¿Fue Adorno un elitista cultural?
 [Ver en YouTube](https://www.youtube.com/watch?v=eirb8oXwPgA&t=1478s)
+
+
+---
+class:   middle, slideInRight, inverse fadeOutLeft
+background-image: url("img/2.png")
+background-size: cover
